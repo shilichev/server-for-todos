@@ -1,0 +1,23 @@
+{
+  "name": "server-for-todo",
+  "version": "1.0.0",
+  "description": "server-for-todo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "server": "nodemon index"
+  },
+  "keywords": [
+    "todo",
+    "project",
+    "express"
+  ],
+  "author": "Shilichev Daniil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
