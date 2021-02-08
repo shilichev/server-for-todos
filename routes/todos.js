@@ -4,6 +4,7 @@ const {
   getListTodos,
   addTodo,
   updateTodoById,
+  deleteTodoById,
 } = require("../controllers/todos");
 
 router.get("/", getListTodos);
