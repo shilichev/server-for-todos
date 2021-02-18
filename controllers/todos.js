@@ -1,20 +1,20 @@
 let todos = [
   {
     id: "1",
-    title: "Help",
-    description: "This description about help",
+    title: "Housework",
+    description: "Wash dish, clean flat",
     status: "DONE",
   },
   {
     id: "2",
-    title: "News",
-    description: "This description all about news",
-    status: "TODO",
+    title: "React",
+    description: "Learn and understend main ideas of React/Redux",
+    status: "DONE",
   },
   {
     id: "3",
-    title: "Interestings",
-    description: "This description about interestings",
+    title: "Job",
+    description: "Find interesting job with fair boss and good team",
     status: "TODO",
   },
 ];
